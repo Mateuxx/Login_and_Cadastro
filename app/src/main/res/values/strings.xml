@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="introducao">Introdução ao Android</string>
+    <string name="message">Digite suas credencias para continuar</string>
+    <string name="saveLogin">Salvar informação de login</string>
+    <string name="enter">ENTRAR</string>
+    <string name="sloganText">\"The most secure \npasswor manager\"</string>
+    <string name="sloganAuthors">Bob and Alice\n</string>
+    <string name="sobre">Sobre</string>
+    <string name="congifs">Configurações</string>
+    <string name="senha">Senha</string>
+    <string name="addTitle">Senha</string>
+    <string name="addName">Nome</string>
+
+</resources>
